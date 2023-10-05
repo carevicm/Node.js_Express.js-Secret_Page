@@ -48,4 +48,4 @@ Notes:
 
 This is a simple project for educational purposes. It showcases basic authentication mechanisms using Express middleware.
 
-Always ensure that sensitive data like passwords are stored securely in a real-world application. This demo uses a plaintext
+Always ensure that sensitive data like passwords are stored securely in a real-world application. This demo uses plaintext
